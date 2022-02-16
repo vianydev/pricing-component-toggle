@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/vianydev/pricing-component-toggle/static/css/main.55e2125b.css",
-    "main.js": "/vianydev/pricing-component-toggle/static/js/main.adce7d8c.js",
-    "static/js/787.01878c0a.chunk.js": "/vianydev/pricing-component-toggle/static/js/787.01878c0a.chunk.js",
-    "index.html": "/vianydev/pricing-component-toggle/index.html",
-    "static/media/bg-bottom.svg": "/vianydev/pricing-component-toggle/static/media/bg-bottom.0ed1debdb05aee57e642.svg",
-    "static/media/bg-top.svg": "/vianydev/pricing-component-toggle/static/media/bg-top.4980c1fd1180f71d5782.svg",
-    "main.55e2125b.css.map": "/vianydev/pricing-component-toggle/static/css/main.55e2125b.css.map",
-    "main.adce7d8c.js.map": "/vianydev/pricing-component-toggle/static/js/main.adce7d8c.js.map",
-    "787.01878c0a.chunk.js.map": "/vianydev/pricing-component-toggle/static/js/787.01878c0a.chunk.js.map"
+    "main.css": "/pricing-component-toggle/static/css/main.348156fd.css",
+    "main.js": "/pricing-component-toggle/static/js/main.c460895e.js",
+    "static/js/787.01878c0a.chunk.js": "/pricing-component-toggle/static/js/787.01878c0a.chunk.js",
+    "static/media/bg-bottom.svg": "/pricing-component-toggle/static/media/bg-bottom.0ed1debdb05aee57e642.svg",
+    "static/media/bg-top.svg": "/pricing-component-toggle/static/media/bg-top.4980c1fd1180f71d5782.svg",
+    "index.html": "/pricing-component-toggle/index.html",
+    "main.348156fd.css.map": "/pricing-component-toggle/static/css/main.348156fd.css.map",
+    "main.c460895e.js.map": "/pricing-component-toggle/static/js/main.c460895e.js.map",
+    "787.01878c0a.chunk.js.map": "/pricing-component-toggle/static/js/787.01878c0a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.55e2125b.css",
-    "static/js/main.adce7d8c.js"
+    "static/css/main.348156fd.css",
+    "static/js/main.c460895e.js"
   ]
 }

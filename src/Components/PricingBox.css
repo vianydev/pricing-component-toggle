@@ -1,0 +1,95 @@
+.container-price {
+    margin: 1rem 0;
+    width: 340px;
+    border-radius: 11px;
+    background-color: hsl(0, 0%, 100%);
+    text-align: center;
+    padding: 1rem;
+    box-shadow: -3px 8px 20px 7px rgb(82 82 82 / 20%);
+}
+
+.box-price {
+    display: flex;
+    flex-direction: column;
+}
+
+.title-list{
+    margin: 0;
+    margin-top: 1rem;
+    font-size: 1.5rem;
+}
+
+.price {
+    margin: 2rem 0;
+    font-size: 3.7rem;
+    color: #484B5D;
+}
+
+.price-simbol {
+    font-size: 2rem;
+}
+
+.list-element {
+    margin: 0;
+    padding: 1.3rem 0;
+    border-top: 1px solid hsl(246, 13%, 86%);
+}
+
+ .hr-element{
+     margin: 0;
+     padding: 0;
+ }
+
+hr {
+    margin: 0;
+    border: 0;
+    border-bottom: 1px solid hsl(246, 13%, 86%);
+    background: hsl(246, 13%, 86%);
+}
+
+button {
+    cursor: pointer;
+    font-family: 'Montserrat', sans-serif;
+    margin: 2rem 0;
+    padding: 8px;
+    height: 44px;
+    border: 0px solid;
+    border-radius: 9px;
+    color: hsl(0, 0%, 100%);
+    background: linear-gradient(149.73deg, #9FA2EF 0%, #6C70DE 75.07%);
+}
+
+button:hover {
+    background: none;
+    color: #6C70DE;
+    border: 1px solid #6C70DE;
+}
+
+/* Purple Box */
+.container-price-purple {
+    margin: 1rem 0;
+    width: 340px;
+    border-radius: 11px;
+    color: white;
+    background: linear-gradient(147.46deg, #A2A6F1 1.38%, #6C70DE 98.64%);
+    text-align: center;
+    padding: 1.7rem 1rem;
+    box-shadow: -3px 8px 18px hsla(0, 1%, 70%, 80%);
+}
+
+.price-purple {
+    margin: 2.5rem 0;
+    font-size: 3.5rem;
+    color: white;
+}
+
+.purple-button {
+    color: #6C70DE;
+    background: white;
+}
+
+.purple-button:hover {
+    background: none;
+    color: white;
+    border: 1px solid white;
+}

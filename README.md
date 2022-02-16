@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/vianydev/pricing-component-toggle)
-- Live Site URL: [Add live site URL here](https://vianydev.github.io/pricing-component-toggle/)
+- Solution URL: [Solution URL here](https://github.com/vianydev/pricing-component-toggle)
+- Live Site URL: [Live site URL here](https://vianydev.github.io/pricing-component-toggle/)
 
 ## My process
 
